@@ -2,6 +2,10 @@
 
 A browser extension that adds a convenient navigation panel for Grok chat messages, making it easier to jump between different parts of a conversation.
 
+## Screenshot
+
+<img src="grok-extension-screenshot.jpg" alt="Grok Scroll Extension Screenshot" style="max-height: 600px;">
+
 ## Features
 
 - Automatically creates a navigation panel for all messages in a Grok chat
