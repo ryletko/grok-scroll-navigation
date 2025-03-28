@@ -32,7 +32,7 @@
       right: 50px;
       max-height: 80vh;
       overflow-y: auto;
-      z-index: 9999;
+      z-index: 1;
       background-color: hsl(0, 0.00%, 97.30%);
       border-radius: 8px;
       box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
